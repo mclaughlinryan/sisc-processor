@@ -1,0 +1,287 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d//iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated
+valu
+Z1 !s110 1653503743
+!i10b 1
+!s100 ?FYPeRc<O_A68BlhmbGOi1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ii^bOCzFRNWYzC<caaC:n:2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1516391779
+8//iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/alu.v
+F//iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/alu.v
+!i122 0
+L0 6 165
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1653503743.000000
+!s107 //iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/alu.v|
+!s90 -reportprogress|300|-work|work|//iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/alu.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vbr
+R1
+!i10b 1
+!s100 >VMbEzMU9SmF^SD]BcS972
+R2
+IUnBN8LUVfjaW`GE^66_:X1
+R3
+R0
+w1454959679
+8//iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/br.v
+F//iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/br.v
+!i122 1
+L0 6 40
+R4
+r1
+!s85 0
+31
+R5
+!s107 //iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/br.v|
+!s90 -reportprogress|300|-work|work|//iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/br.v|
+!i113 1
+R6
+R7
+vctrl
+Z8 !s110 1653503744
+!i10b 1
+!s100 6BJT18mj3@g57RnP@HQ0h3
+R2
+IhUe=cEZU@m9LLaG[6YMgg1
+R3
+R0
+w1653502946
+8//iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/ctrl.v
+F//iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/ctrl.v
+!i122 2
+L0 6 203
+R4
+r1
+!s85 0
+31
+R5
+!s107 //iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/ctrl.v|
+!s90 -reportprogress|300|-work|work|//iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/ctrl.v|
+!i113 1
+R6
+R7
+vim
+R8
+!i10b 1
+!s100 >3?gDEl2GB3@@laE7ZIRR0
+R2
+IhT5V^FB`k>FYV^;nPg>kB3
+R3
+R0
+w1459968165
+8//iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/im.v
+F//iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/im.v
+!i122 3
+L0 6 32
+R4
+r1
+!s85 0
+31
+Z9 !s108 1653503744.000000
+!s107 //iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/im.v|
+!s90 -reportprogress|300|-work|work|//iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/im.v|
+!i113 1
+R6
+R7
+vir
+R8
+!i10b 1
+!s100 Y=ZB>@]hoFbXD1D`4MBBO3
+R2
+IC?K4G_ZBKJ^dQ;V`1mW0]3
+R3
+R0
+w1459963333
+8//iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/ir.v
+F//iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/ir.v
+!i122 4
+Z10 L0 6 36
+R4
+r1
+!s85 0
+31
+R9
+!s107 //iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/ir.v|
+!s90 -reportprogress|300|-work|work|//iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/ir.v|
+!i113 1
+R6
+R7
+vmux32
+R8
+!i10b 1
+!s100 :X@CNUBVz0Z;aCJ_OFS[b2
+R2
+I;44GX0ZL_X_C11[LjGFaC2
+R3
+R0
+w1455296371
+8//iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/mux32.v
+F//iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/mux32.v
+!i122 6
+L0 6 33
+R4
+r1
+!s85 0
+31
+R9
+!s107 //iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/mux32.v|
+!s90 -reportprogress|300|-work|work|//iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/mux32.v|
+!i113 1
+R6
+R7
+vmux4
+R8
+!i10b 1
+!s100 RE<We:R5;YY3KVTVmMe_A2
+R2
+IEaZnzFiFc@X4mI6UTc0aE3
+R3
+R0
+w1517233904
+8//iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/mux4.v
+F//iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/mux4.v
+!i122 5
+L0 6 31
+R4
+r1
+!s85 0
+31
+R9
+!s107 //iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/mux4.v|
+!s90 -reportprogress|300|-work|work|//iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/mux4.v|
+!i113 1
+R6
+R7
+vpc
+Z11 !s110 1653503745
+!i10b 1
+!s100 UdNg0Qb6o=;7cG4<IKYf<2
+R2
+IXY?Mm=Xi4=Z7=3lRM4LCc0
+R3
+R0
+w1516305040
+8//iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/pc.v
+F//iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/pc.v
+!i122 7
+L0 6 50
+R4
+r1
+!s85 0
+31
+R9
+!s107 //iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/pc.v|
+!s90 -reportprogress|300|-work|work|//iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/pc.v|
+!i113 1
+R6
+R7
+vrf
+R11
+!i10b 1
+!s100 8XAjmi[>K`TmI[OID@j8L0
+R2
+I1djWl^DXC:H_hkO4WXmMb0
+R3
+R0
+w1518629743
+8//iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/rf.v
+F//iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/rf.v
+!i122 8
+L0 6 66
+R4
+r1
+!s85 0
+31
+Z12 !s108 1653503745.000000
+!s107 //iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/rf.v|
+!s90 -reportprogress|300|-work|work|//iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/rf.v|
+!i113 1
+R6
+R7
+vsisc
+R11
+!i10b 1
+!s100 605LW[YMJh>81`b9K06OI0
+R2
+IkiQAk^c3eFHE==H>HH^H<0
+R3
+R0
+w1653503623
+8//iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/sisc.v
+F//iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/sisc.v
+!i122 9
+L0 6 39
+R4
+r1
+!s85 0
+31
+R12
+!s107 //iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/sisc.v|
+!s90 -reportprogress|300|-work|work|//iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/sisc.v|
+!i113 1
+R6
+R7
+vsisc_tb
+R11
+!i10b 1
+!s100 oDlPMehULl8@7^2S>gK3Z1
+R2
+IR>6l3:[zTQ[mz<IHo?ZgS0
+R3
+R0
+w1459959845
+8//iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/sisc_tb_p2.v
+F//iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/sisc_tb_p2.v
+!i122 10
+R10
+R4
+r1
+!s85 0
+31
+R12
+!s107 //iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/sisc_tb_p2.v|
+!s90 -reportprogress|300|-work|work|//iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/sisc_tb_p2.v|
+!i113 1
+R6
+R7
+vstatreg
+R11
+!i10b 1
+!s100 MJkL87QlS:::zz=oZ=a3h3
+R2
+I_m>H_gUJ`lgLY]0_aTGQo0
+R3
+R0
+w1456433853
+8//iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/statreg.v
+F//iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/statreg.v
+!i122 11
+L0 6 34
+R4
+r1
+!s85 0
+31
+R12
+!s107 //iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/statreg.v|
+!s90 -reportprogress|300|-work|work|//iowa.uiowa.edu/shared/engineering/home/rmmclaughlin/Documents/Computer Architecture and Organization/Project_p2_updated/statreg.v|
+!i113 1
+R6
+R7
